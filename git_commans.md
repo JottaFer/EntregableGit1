@@ -4,9 +4,10 @@ git status: Este comando se usa para obtener el estado actual del repositorio
 
 git clone: se utiliza para crear un repositorio existente sdd
 
+# probando repositorio
 
 
-git pull:
+git pull: asdhb 
 
 git checkout:
 
